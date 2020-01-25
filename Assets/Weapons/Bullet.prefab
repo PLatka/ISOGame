@@ -45,7 +45,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myRigidBody: {fileID: 3853714920396309263}
-  forceMultiplier: 500
+  forceMultiplier: 6
+  duration: 5
+  forceMode: 1
 --- !u!1 &3853714920396309248
 GameObject:
   m_ObjectHideFlags: 0

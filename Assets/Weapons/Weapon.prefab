@@ -40,7 +40,6 @@ GameObject:
   m_Component:
   - component: {fileID: 3518989040665790057}
   - component: {fileID: 3170323536949031018}
-  - component: {fileID: 4094763419586947622}
   m_Layer: 0
   m_Name: Weapon
   m_TagString: Untagged
@@ -78,20 +77,6 @@ MonoBehaviour:
   projectile: {fileID: 3853714919928558464, guid: 4427f1be756aa824792e41d6bab7ed0a,
     type: 3}
   muzzleMount: {fileID: 347844213334473924}
---- !u!114 &4094763419586947622
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3518989040665790062}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: de74efc45bb782b418d7abd1d09a9723, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  myRigidBody: {fileID: 0}
-  forceMultiplier: 300
 --- !u!1 &3518989041242082128
 GameObject:
   m_ObjectHideFlags: 0
